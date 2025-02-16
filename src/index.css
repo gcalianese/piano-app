@@ -107,7 +107,10 @@ body, html {
   height: 250px;
   width: 80px;
   border: 2px solid lightgray;
+}
 
+.active-key{
+  background-color: lightpink;
 }
 
 .key-label {
