@@ -1,0 +1,14 @@
+[
+    {"name": "C2", "file": "\\C.mp3", "color": "white", "key": "w"},
+    {"name": "C#2", "file": "\\Cs.mp3", "color": "black"},
+    {"name": "D2", "file": "\\D.mp3", "color": "white"},
+    {"name": "D#2", "file": "\\Ds.mp3", "color": "black"},
+    {"name": "E2", "file": "\\E.mp3", "color": "white"},
+    {"name": "F2", "file": "\\F.mp3", "color": "white"},
+    {"name": "F#2", "file": "\\Fs.mp3", "color": "black"},
+    {"name": "G2", "file": "\\G.mp3", "color": "white"},
+    {"name": "G#2", "file": "\\Gs.mp3", "color": "black"},
+    {"name": "A2",  "file": "\\A.mp3", "color": "white"},
+    {"name": "A#2", "file": "\\As.mp3", "color": "black"},
+    {"name": "B2", "file": "\\B.mp3", "color": "white"}
+]
